@@ -75,7 +75,7 @@ __________________
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3x8QSyf)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3dWMfyt)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3dWMfyt)https://github.com/vidusha467/Taurus-Bot)
 -------
 <br>
 <br >
